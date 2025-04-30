@@ -37,7 +37,7 @@ plt.show()
 # Part b
 # Proof in the notebook
 
-# Part 
+# Part c
 
 # Draw the contour plot of f(x, y) = x² + 2y² after rotation θ=π/8
 a = 1
